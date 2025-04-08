@@ -1,2 +1,9 @@
 # Mass-Decompress
-Decompresses all folders found it it’s root and any folders contained inside (including nested folders). Helpful if you have a metric boatload of zip files that you need to unzip.
+Decompresses all folders found in the folder you select. Allows to toggle the ability to remove the zip files upon completion. 
+
+# Preview
+![image](https://github.com/user-attachments/assets/68dcb130-634c-45bf-825d-32d6a2bcd2fc)
+
+# Requirements for running python script
+tkinter, dearpygui.
+
